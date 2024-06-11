@@ -1,11 +1,19 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
         "appID": "5YGP7YPFZY.com.ZenRiderDriver",
         "paths": ["*"]
       }
-    ]
+    ],
+,
+   "webcredentials": {
+      "apps": [ "5YGP7YPFZY.com.ZenRiderDriver" ]
+   },
+
+
+    "appclips": {
+        "apps": ["5YGP7YPFZY.com.ZenRiderDriver"]
+    }
   }
 }
