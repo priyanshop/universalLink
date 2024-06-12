@@ -6,14 +6,11 @@
         "paths": ["*"]
       }
     ],
-,
-   "webcredentials": {
-      "apps": [ "5YGP7YPFZY.com.ZenRiderDriver" ]
-   },
-
-
+    "webcredentials": {
+      "apps": ["5YGP7YPFZY.com.ZenRiderDriver"]
+    },
     "appclips": {
-        "apps": ["5YGP7YPFZY.com.ZenRiderDriver"]
+      "apps": ["5YGP7YPFZY.com.ZenRiderDriver"]
     }
   }
 }
