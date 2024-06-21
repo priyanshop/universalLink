@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.zanridedriver",
+    "sha256_cert_fingerprints":
+    ["BF:9C:C7:F2:2E:4D:04:24:42:C0:36:70:F0:0C:AB:A1:BE:61:0C:A2:6A:B9:7F:C7:54:1C:0C:42:79:0C:AE:A2"]
+  }
+}]
